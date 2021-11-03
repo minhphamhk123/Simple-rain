@@ -1,0 +1,10 @@
+D:\programer\VS 2019\C#\RainFall\RainFall\bin\Debug\RainFall.exe.config
+D:\programer\VS 2019\C#\RainFall\RainFall\bin\Debug\RainFall.exe
+D:\programer\VS 2019\C#\RainFall\RainFall\bin\Debug\RainFall.pdb
+D:\programer\VS 2019\C#\RainFall\RainFall\obj\Debug\RainFall.csproj.AssemblyReference.cache
+D:\programer\VS 2019\C#\RainFall\RainFall\obj\Debug\RainFall.Form_rain.resources
+D:\programer\VS 2019\C#\RainFall\RainFall\obj\Debug\RainFall.Properties.Resources.resources
+D:\programer\VS 2019\C#\RainFall\RainFall\obj\Debug\RainFall.csproj.GenerateResource.cache
+D:\programer\VS 2019\C#\RainFall\RainFall\obj\Debug\RainFall.csproj.CoreCompileInputs.cache
+D:\programer\VS 2019\C#\RainFall\RainFall\obj\Debug\RainFall.exe
+D:\programer\VS 2019\C#\RainFall\RainFall\obj\Debug\RainFall.pdb
